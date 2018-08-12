@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="495cba9a-4157-4da3-b5ec-31e9ee81fb04" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="AddMinion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercise/AddMinion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1521391897998" expanded="true" signature="885:922" ph="SELECT name towns" />
+                <marker date="1521391897998" expanded="true" signature="1278:1315" ph="INSERT INto towns... " />
+                <marker date="1521391897998" expanded="true" signature="1278:1445" ph="INSERT INTO towns... " />
+                <marker date="1521391897998" expanded="true" signature="1356:1396" ph="SELECT (coun... towns" />
+                <marker date="1521391897998" expanded="true" signature="1874:1914" ph="SELECT name villains" />
+                <marker date="1521391897998" expanded="true" signature="2270:2317" ph="INSERT INTO villains... " />
+                <marker date="1521391897998" expanded="true" signature="2270:2415" ph="INSERT INTO villains... " />
+                <marker date="1521391897998" expanded="true" signature="2359:2402" ph="SELECT (coun... villains" />
+                <marker date="1521391897998" expanded="true" signature="2806:2850" ph="INSERT INTO minions... " />
+                <marker date="1521391897998" expanded="true" signature="2806:3023" ph="INSERT INTO minions... " />
+                <marker date="1521391897998" expanded="true" signature="2892:2934" ph="SELECT (coun... minions" />
+                <marker date="1521391897998" expanded="true" signature="2977:3021" ph="SELECT t.id towns" />
+                <marker date="1521391897998" expanded="true" signature="3339:3390" ph="INSERT INTO minions_villains... " />
+                <marker date="1521391897998" expanded="true" signature="3339:3577" ph="INSERT INTO minions_villains... " />
+                <marker date="1521391897998" expanded="true" signature="3432:3492" ph="SELECT m.id minions" />
+                <marker date="1521391897998" expanded="true" signature="3528:3544" ph="SELECT v.id " />
+                <marker date="1521391897998" expanded="true" signature="3528:3575" ph="SELECT v.id villains" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeTownNameCasing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1521565506920" expanded="true" signature="596:713" ph="UPDATE towns... " />
+                <marker date="1521565506920" expanded="true" signature="602:608" ph="ALTER TABLE towns... " />
+                <marker date="1521565506920" expanded="true" signature="602:652" ph="UPDATE TABLE... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initialSetup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercise/initialSetup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1521564855167" expanded="true" signature="597:806" ph="CREATE TABLE... towns" />
+                <marker date="1521564855167" expanded="true" signature="852:1203" ph="CREATE TABLE... minions" />
+                <marker date="1521564855167" expanded="true" signature="1250:1477" ph="CREATE TABLE... IF" />
+                <marker date="1521564855167" expanded="true" signature="1532:1993" ph="CREATE TABLE... IF" />
+                <marker date="1521564855167" expanded="true" signature="2282:2502" ph="INSERT INTO towns... " />
+                <marker date="1521564855167" expanded="true" signature="2555:2732" ph="INSERT INTO minions... " />
+                <marker date="1521564855167" expanded="true" signature="2785:3002" ph="INSERT INTO villains... " />
+                <marker date="1521564855167" expanded="true" signature="3064:3184" ph="INSERT INTO minions_villains... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetVillainsNames.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercise/GetVillainsNames.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1521319160843" expanded="true" signature="600:672" ph="SELECT v.nam... viliains" />
+                <marker date="1521319160843" expanded="true" signature="600:795" ph="SELECT v.nam... viliains" />
+                <marker date="1521319160843" expanded="true" signature="600:852" ph="SELECT v.nam... viliains" />
+                <marker date="1521319160843" expanded="true" signature="600:878" ph="SELECT v.nam... villains" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/initialSetup.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/GetMinionNames.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/Minion.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/AddMinion.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/ConnectToDB.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/GetVillainsNames.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/initialSetup.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1040" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JDBC_exercises_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_exercises_001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_exercises_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_exercises_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_exercises_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC_exercises_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_exercises_001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../mysql-connector-java-5.1.46" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConnectToDB">
+    <configuration name="AddMinion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Exercise.AddMinion" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_exercises_001" />
+      <envs />
+    </configuration>
+    <configuration name="ChangeTownNameCasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Exercise.ChangeTownNameCasing" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_exercises_001" />
+      <envs />
+    </configuration>
+    <configuration name="ConnectToDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Exercise.ConnectToDB" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_exercises_001" />
+      <envs />
+    </configuration>
+    <configuration name="GetMinionNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Exercise.GetMinionNames" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_exercises_001" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="initialSetup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Exercise.initialSetup" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JDBC_exercises_001" />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.initialSetup" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GetMinionNames" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AddMinion" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ChangeTownNameCasing" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ConnectToDB" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ConnectToDB" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ChangeTownNameCasing" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AddMinion" />
+        <item index="3" class="java.lang.String" itemvalue="Application.initialSetup" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GetMinionNames" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="495cba9a-4157-4da3-b5ec-31e9ee81fb04" name="Default" comment="" />
+      <created>1521301544320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521301544320</updated>
+      <workItem from="1521301547325" duration="14969000" />
+      <workItem from="1521407318164" duration="122000" />
+      <workItem from="1521561701944" duration="1147000" />
+      <workItem from="1521563429721" duration="2158000" />
+      <workItem from="1521568418498" duration="19000" />
+      <workItem from="1521569109141" duration="21000" />
+      <workItem from="1521570975971" duration="100000" />
+      <workItem from="1522077944689" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18553000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Exercise/AddMinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521391897998" expanded="true" signature="885:922" ph="SELECT name towns" />
+            <marker date="1521391897998" expanded="true" signature="1278:1315" ph="INSERT INto towns... " />
+            <marker date="1521391897998" expanded="true" signature="1278:1445" ph="INSERT INTO towns... " />
+            <marker date="1521391897998" expanded="true" signature="1356:1396" ph="SELECT (coun... towns" />
+            <marker date="1521391897998" expanded="true" signature="1874:1914" ph="SELECT name villains" />
+            <marker date="1521391897998" expanded="true" signature="2270:2317" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2270:2415" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2359:2402" ph="SELECT (coun... villains" />
+            <marker date="1521391897998" expanded="true" signature="2806:2850" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2806:3023" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2892:2934" ph="SELECT (coun... minions" />
+            <marker date="1521391897998" expanded="true" signature="2977:3021" ph="SELECT t.id towns" />
+            <marker date="1521391897998" expanded="true" signature="3339:3390" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3339:3577" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3432:3492" ph="SELECT m.id minions" />
+            <marker date="1521391897998" expanded="true" signature="3528:3544" ph="SELECT v.id " />
+            <marker date="1521391897998" expanded="true" signature="3528:3575" ph="SELECT v.id villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521565506920" expanded="true" signature="596:713" ph="UPDATE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:608" ph="ALTER TABLE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:652" ph="UPDATE TABLE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/initialSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521564855167" expanded="true" signature="597:806" ph="CREATE TABLE... towns" />
+            <marker date="1521564855167" expanded="true" signature="852:1203" ph="CREATE TABLE... minions" />
+            <marker date="1521564855167" expanded="true" signature="1250:1477" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="1532:1993" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="2282:2502" ph="INSERT INTO towns... " />
+            <marker date="1521564855167" expanded="true" signature="2555:2732" ph="INSERT INTO minions... " />
+            <marker date="1521564855167" expanded="true" signature="2785:3002" ph="INSERT INTO villains... " />
+            <marker date="1521564855167" expanded="true" signature="3064:3184" ph="INSERT INTO minions_villains... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/GetVillainsNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521319160843" expanded="true" signature="600:672" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:795" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:852" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:878" ph="SELECT v.nam... villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/AddMinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521391897998" expanded="true" signature="885:922" ph="SELECT name towns" />
+            <marker date="1521391897998" expanded="true" signature="1278:1315" ph="INSERT INto towns... " />
+            <marker date="1521391897998" expanded="true" signature="1278:1445" ph="INSERT INTO towns... " />
+            <marker date="1521391897998" expanded="true" signature="1356:1396" ph="SELECT (coun... towns" />
+            <marker date="1521391897998" expanded="true" signature="1874:1914" ph="SELECT name villains" />
+            <marker date="1521391897998" expanded="true" signature="2270:2317" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2270:2415" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2359:2402" ph="SELECT (coun... villains" />
+            <marker date="1521391897998" expanded="true" signature="2806:2850" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2806:3023" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2892:2934" ph="SELECT (coun... minions" />
+            <marker date="1521391897998" expanded="true" signature="2977:3021" ph="SELECT t.id towns" />
+            <marker date="1521391897998" expanded="true" signature="3339:3390" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3339:3577" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3432:3492" ph="SELECT m.id minions" />
+            <marker date="1521391897998" expanded="true" signature="3528:3544" ph="SELECT v.id " />
+            <marker date="1521391897998" expanded="true" signature="3528:3575" ph="SELECT v.id villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521565506920" expanded="true" signature="596:713" ph="UPDATE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:608" ph="ALTER TABLE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:652" ph="UPDATE TABLE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/initialSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="26" column="49" lean-forward="false" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521564855167" expanded="true" signature="597:806" ph="CREATE TABLE... towns" />
+            <marker date="1521564855167" expanded="true" signature="852:1203" ph="CREATE TABLE... minions" />
+            <marker date="1521564855167" expanded="true" signature="1250:1477" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="1532:1993" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="2282:2502" ph="INSERT INTO towns... " />
+            <marker date="1521564855167" expanded="true" signature="2555:2732" ph="INSERT INTO minions... " />
+            <marker date="1521564855167" expanded="true" signature="2785:3002" ph="INSERT INTO villains... " />
+            <marker date="1521564855167" expanded="true" signature="3064:3184" ph="INSERT INTO minions_villains... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/GetVillainsNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521319160843" expanded="true" signature="600:672" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:795" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:852" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:878" ph="SELECT v.nam... villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/AddMinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521391897998" expanded="true" signature="885:922" ph="SELECT name towns" />
+            <marker date="1521391897998" expanded="true" signature="1278:1315" ph="INSERT INto towns... " />
+            <marker date="1521391897998" expanded="true" signature="1278:1445" ph="INSERT INTO towns... " />
+            <marker date="1521391897998" expanded="true" signature="1356:1396" ph="SELECT (coun... towns" />
+            <marker date="1521391897998" expanded="true" signature="1874:1914" ph="SELECT name villains" />
+            <marker date="1521391897998" expanded="true" signature="2270:2317" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2270:2415" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2359:2402" ph="SELECT (coun... villains" />
+            <marker date="1521391897998" expanded="true" signature="2806:2850" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2806:3023" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2892:2934" ph="SELECT (coun... minions" />
+            <marker date="1521391897998" expanded="true" signature="2977:3021" ph="SELECT t.id towns" />
+            <marker date="1521391897998" expanded="true" signature="3339:3390" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3339:3577" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3432:3492" ph="SELECT m.id minions" />
+            <marker date="1521391897998" expanded="true" signature="3528:3544" ph="SELECT v.id " />
+            <marker date="1521391897998" expanded="true" signature="3528:3575" ph="SELECT v.id villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521565506920" expanded="true" signature="596:713" ph="UPDATE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:608" ph="ALTER TABLE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:652" ph="UPDATE TABLE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/GetVillainsNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521319160843" expanded="true" signature="600:672" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:795" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:852" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:878" ph="SELECT v.nam... villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/initialSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521564855167" expanded="true" signature="597:806" ph="CREATE TABLE... towns" />
+            <marker date="1521564855167" expanded="true" signature="852:1203" ph="CREATE TABLE... minions" />
+            <marker date="1521564855167" expanded="true" signature="1250:1477" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="1532:1993" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="2282:2502" ph="INSERT INTO towns... " />
+            <marker date="1521564855167" expanded="true" signature="2555:2732" ph="INSERT INTO minions... " />
+            <marker date="1521564855167" expanded="true" signature="2785:3002" ph="INSERT INTO villains... " />
+            <marker date="1521564855167" expanded="true" signature="3064:3184" ph="INSERT INTO minions_villains... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/AddMinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521391897998" expanded="true" signature="885:922" ph="SELECT name towns" />
+            <marker date="1521391897998" expanded="true" signature="1278:1315" ph="INSERT INto towns... " />
+            <marker date="1521391897998" expanded="true" signature="1278:1445" ph="INSERT INTO towns... " />
+            <marker date="1521391897998" expanded="true" signature="1356:1396" ph="SELECT (coun... towns" />
+            <marker date="1521391897998" expanded="true" signature="1874:1914" ph="SELECT name villains" />
+            <marker date="1521391897998" expanded="true" signature="2270:2317" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2270:2415" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2359:2402" ph="SELECT (coun... villains" />
+            <marker date="1521391897998" expanded="true" signature="2806:2850" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2806:3023" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2892:2934" ph="SELECT (coun... minions" />
+            <marker date="1521391897998" expanded="true" signature="2977:3021" ph="SELECT t.id towns" />
+            <marker date="1521391897998" expanded="true" signature="3339:3390" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3339:3577" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3432:3492" ph="SELECT m.id minions" />
+            <marker date="1521391897998" expanded="true" signature="3528:3544" ph="SELECT v.id " />
+            <marker date="1521391897998" expanded="true" signature="3528:3575" ph="SELECT v.id villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521565506920" expanded="true" signature="596:713" ph="UPDATE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:608" ph="ALTER TABLE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:652" ph="UPDATE TABLE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/GetVillainsNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521319160843" expanded="true" signature="600:672" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:795" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:852" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:878" ph="SELECT v.nam... villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/initialSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521564855167" expanded="true" signature="597:806" ph="CREATE TABLE... towns" />
+            <marker date="1521564855167" expanded="true" signature="852:1203" ph="CREATE TABLE... minions" />
+            <marker date="1521564855167" expanded="true" signature="1250:1477" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="1532:1993" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="2282:2502" ph="INSERT INTO towns... " />
+            <marker date="1521564855167" expanded="true" signature="2555:2732" ph="INSERT INTO minions... " />
+            <marker date="1521564855167" expanded="true" signature="2785:3002" ph="INSERT INTO villains... " />
+            <marker date="1521564855167" expanded="true" signature="3064:3184" ph="INSERT INTO minions_villains... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/AddMinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521391897998" expanded="true" signature="885:922" ph="SELECT name towns" />
+            <marker date="1521391897998" expanded="true" signature="1278:1315" ph="INSERT INto towns... " />
+            <marker date="1521391897998" expanded="true" signature="1278:1445" ph="INSERT INTO towns... " />
+            <marker date="1521391897998" expanded="true" signature="1356:1396" ph="SELECT (coun... towns" />
+            <marker date="1521391897998" expanded="true" signature="1874:1914" ph="SELECT name villains" />
+            <marker date="1521391897998" expanded="true" signature="2270:2317" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2270:2415" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2359:2402" ph="SELECT (coun... villains" />
+            <marker date="1521391897998" expanded="true" signature="2806:2850" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2806:3023" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2892:2934" ph="SELECT (coun... minions" />
+            <marker date="1521391897998" expanded="true" signature="2977:3021" ph="SELECT t.id towns" />
+            <marker date="1521391897998" expanded="true" signature="3339:3390" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3339:3577" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3432:3492" ph="SELECT m.id minions" />
+            <marker date="1521391897998" expanded="true" signature="3528:3544" ph="SELECT v.id " />
+            <marker date="1521391897998" expanded="true" signature="3528:3575" ph="SELECT v.id villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521565506920" expanded="true" signature="596:713" ph="UPDATE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:608" ph="ALTER TABLE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:652" ph="UPDATE TABLE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/initialSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1690">
+          <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521564855167" expanded="true" signature="597:806" ph="CREATE TABLE... towns" />
+            <marker date="1521564855167" expanded="true" signature="852:1203" ph="CREATE TABLE... minions" />
+            <marker date="1521564855167" expanded="true" signature="1250:1477" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="1532:1993" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="2282:2502" ph="INSERT INTO towns... " />
+            <marker date="1521564855167" expanded="true" signature="2555:2732" ph="INSERT INTO minions... " />
+            <marker date="1521564855167" expanded="true" signature="2785:3002" ph="INSERT INTO villains... " />
+            <marker date="1521564855167" expanded="true" signature="3064:3184" ph="INSERT INTO minions_villains... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/GetVillainsNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521319160843" expanded="true" signature="600:672" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:795" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:852" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:878" ph="SELECT v.nam... villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/AddMinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521391897998" expanded="true" signature="885:922" ph="SELECT name towns" />
+            <marker date="1521391897998" expanded="true" signature="1278:1315" ph="INSERT INto towns... " />
+            <marker date="1521391897998" expanded="true" signature="1278:1445" ph="INSERT INTO towns... " />
+            <marker date="1521391897998" expanded="true" signature="1356:1396" ph="SELECT (coun... towns" />
+            <marker date="1521391897998" expanded="true" signature="1874:1914" ph="SELECT name villains" />
+            <marker date="1521391897998" expanded="true" signature="2270:2317" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2270:2415" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2359:2402" ph="SELECT (coun... villains" />
+            <marker date="1521391897998" expanded="true" signature="2806:2850" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2806:3023" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2892:2934" ph="SELECT (coun... minions" />
+            <marker date="1521391897998" expanded="true" signature="2977:3021" ph="SELECT t.id towns" />
+            <marker date="1521391897998" expanded="true" signature="3339:3390" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3339:3577" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3432:3492" ph="SELECT m.id minions" />
+            <marker date="1521391897998" expanded="true" signature="3528:3544" ph="SELECT v.id " />
+            <marker date="1521391897998" expanded="true" signature="3528:3575" ph="SELECT v.id villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521565506920" expanded="true" signature="596:713" ph="UPDATE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:608" ph="ALTER TABLE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:652" ph="UPDATE TABLE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/GetMinionNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/Minion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ConnectToDB.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ChangeTownNameCasing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521565506920" expanded="true" signature="596:713" ph="UPDATE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:608" ph="ALTER TABLE towns... " />
+            <marker date="1521565506920" expanded="true" signature="602:652" ph="UPDATE TABLE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/AddMinion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521391897998" expanded="true" signature="885:922" ph="SELECT name towns" />
+            <marker date="1521391897998" expanded="true" signature="1278:1315" ph="INSERT INto towns... " />
+            <marker date="1521391897998" expanded="true" signature="1278:1445" ph="INSERT INTO towns... " />
+            <marker date="1521391897998" expanded="true" signature="1356:1396" ph="SELECT (coun... towns" />
+            <marker date="1521391897998" expanded="true" signature="1874:1914" ph="SELECT name villains" />
+            <marker date="1521391897998" expanded="true" signature="2270:2317" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2270:2415" ph="INSERT INTO villains... " />
+            <marker date="1521391897998" expanded="true" signature="2359:2402" ph="SELECT (coun... villains" />
+            <marker date="1521391897998" expanded="true" signature="2806:2850" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2806:3023" ph="INSERT INTO minions... " />
+            <marker date="1521391897998" expanded="true" signature="2892:2934" ph="SELECT (coun... minions" />
+            <marker date="1521391897998" expanded="true" signature="2977:3021" ph="SELECT t.id towns" />
+            <marker date="1521391897998" expanded="true" signature="3339:3390" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3339:3577" ph="INSERT INTO minions_villains... " />
+            <marker date="1521391897998" expanded="true" signature="3432:3492" ph="SELECT m.id minions" />
+            <marker date="1521391897998" expanded="true" signature="3528:3544" ph="SELECT v.id " />
+            <marker date="1521391897998" expanded="true" signature="3528:3575" ph="SELECT v.id villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/initialSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521564855167" expanded="true" signature="597:806" ph="CREATE TABLE... towns" />
+            <marker date="1521564855167" expanded="true" signature="852:1203" ph="CREATE TABLE... minions" />
+            <marker date="1521564855167" expanded="true" signature="1250:1477" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="1532:1993" ph="CREATE TABLE... IF" />
+            <marker date="1521564855167" expanded="true" signature="2282:2502" ph="INSERT INTO towns... " />
+            <marker date="1521564855167" expanded="true" signature="2555:2732" ph="INSERT INTO minions... " />
+            <marker date="1521564855167" expanded="true" signature="2785:3002" ph="INSERT INTO villains... " />
+            <marker date="1521564855167" expanded="true" signature="3064:3184" ph="INSERT INTO minions_villains... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/GetVillainsNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521319160843" expanded="true" signature="600:672" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:795" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:852" ph="SELECT v.nam... viliains" />
+            <marker date="1521319160843" expanded="true" signature="600:878" ph="SELECT v.nam... villains" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JDBC_exercises_001</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
